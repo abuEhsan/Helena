@@ -1,0 +1,221 @@
+[18-May-2024 00:24:03 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Products.php on line 202
+[18-May-2024 00:24:03 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Products.php on line 208
+[18-May-2024 00:24:03 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[18-May-2024 00:24:03 Asia/Qatar] PHP Warning:  Attempt to read property "WORD80" on null in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[18-May-2024 00:24:03 Asia/Qatar] PHP Warning:  Undefined property: stdClass::$about in /home/helldswh/public_html/ADMIN/Products.php on line 392
+[18-May-2024 00:24:13 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Products.php on line 208
+[18-May-2024 00:24:13 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[18-May-2024 00:24:13 Asia/Qatar] PHP Warning:  Attempt to read property "WORD80" on null in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[18-May-2024 00:24:13 Asia/Qatar] PHP Warning:  Undefined property: stdClass::$about in /home/helldswh/public_html/ADMIN/Products.php on line 392
+[18-May-2024 03:18:20 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[18-May-2024 03:18:20 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171
+[18-May-2024 03:18:31 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[18-May-2024 03:18:31 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171
+[18-May-2024 03:18:46 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/users-profile.php on line 162
+[18-May-2024 03:18:46 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/users-profile.php on line 168
+[18-May-2024 03:20:07 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:20:07 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[18-May-2024 03:21:25 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[18-May-2024 03:21:30 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:27:00 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/users-profile.php on line 162
+[18-May-2024 03:27:00 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/users-profile.php on line 168
+[18-May-2024 03:27:35 Asia/Qatar] PHP Warning:  Undefined array key "GN" in /home/helldswh/public_html/ADMIN/users-profile.php on line 32
+[18-May-2024 03:27:35 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/users-profile.php on line 168
+[18-May-2024 03:42:18 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/users-profile.php on line 168
+[18-May-2024 03:42:53 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/users-profile.php on line 162
+[18-May-2024 03:42:53 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/users-profile.php on line 168
+[18-May-2024 03:43:01 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/change-password.php on line 119
+[18-May-2024 03:43:01 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/change-password.php on line 125
+[18-May-2024 03:43:04 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:43:04 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[18-May-2024 03:43:39 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:43:39 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[18-May-2024 03:43:43 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:43:51 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:44:17 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:44:50 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:46:04 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:46:49 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[18-May-2024 03:46:55 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:47:15 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:47:26 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:47:26 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[18-May-2024 03:47:34 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[18-May-2024 03:47:34 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[18-May-2024 03:47:45 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Links.php on line 113
+[18-May-2024 03:47:45 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Links.php on line 119
+[18-May-2024 03:47:45 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Links.php on line 143
+[18-May-2024 03:47:45 Asia/Qatar] PHP Warning:  Attempt to read property "WORD6" on null in /home/helldswh/public_html/ADMIN/Links.php on line 143
+[18-May-2024 03:48:16 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Products.php on line 202
+[18-May-2024 03:48:16 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Products.php on line 208
+[18-May-2024 03:48:16 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[18-May-2024 03:48:16 Asia/Qatar] PHP Warning:  Attempt to read property "WORD80" on null in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[18-May-2024 03:48:16 Asia/Qatar] PHP Warning:  Undefined property: stdClass::$about in /home/helldswh/public_html/ADMIN/Products.php on line 392
+[18-May-2024 03:48:43 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Currnces.php on line 149
+[18-May-2024 03:48:43 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Currnces.php on line 155
+[18-May-2024 03:48:56 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Manage-Customers.php on line 108
+[18-May-2024 03:48:56 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Manage-Customers.php on line 114
+[18-May-2024 18:10:23 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[18-May-2024 18:10:23 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171
+[18-May-2024 18:01:50 UTC] PHP Warning:  Undefined array key "ADMIN_LOGGED_IN" in /home/helldswh/public_html/ADMIN/Manage-Customers.php on line 4
+[19-May-2024 03:09:29 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 03:09:29 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 03:09:41 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 03:09:41 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 01:06:16 UTC] PHP Warning:  Undefined array key "ADMIN_LOGGED_IN" in /home/helldswh/public_html/ADMIN/dashboard.php on line 4
+[19-May-2024 04:07:02 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 04:07:02 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 04:07:33 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 04:07:33 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 04:07:52 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/users-profile.php on line 162
+[19-May-2024 04:07:52 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/users-profile.php on line 168
+[19-May-2024 04:08:18 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 04:08:18 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 04:09:26 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 04:09:31 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 04:09:36 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 04:10:04 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 04:10:06 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 04:10:22 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 04:17:17 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 04:17:21 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 04:48:54 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 04:50:09 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 04:50:14 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 01:58:33 UTC] PHP Warning:  Undefined array key "ADMIN_LOGGED_IN" in /home/helldswh/public_html/ADMIN/Setting-System.php on line 4
+[19-May-2024 05:11:04 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 05:11:04 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 05:12:10 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 05:12:10 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 05:12:20 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 05:12:20 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 05:14:11 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 05:40:49 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 05:40:49 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 05:41:31 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 05:41:31 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 05:43:08 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 05:43:08 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 05:43:14 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 05:43:14 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 05:43:20 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 05:43:20 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 05:43:56 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 05:43:56 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 05:44:06 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Products.php on line 202
+[19-May-2024 05:44:06 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Products.php on line 208
+[19-May-2024 05:44:06 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 05:44:06 Asia/Qatar] PHP Warning:  Attempt to read property "WORD80" on null in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 05:44:06 Asia/Qatar] PHP Warning:  Undefined property: stdClass::$about in /home/helldswh/public_html/ADMIN/Products.php on line 392
+[19-May-2024 05:44:15 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Category.php on line 146
+[19-May-2024 05:44:15 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Category.php on line 152
+[19-May-2024 05:44:37 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 126
+[19-May-2024 05:44:37 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:44:55 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:45:05 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Manage-Orders-Pleading.php on line 98
+[19-May-2024 05:45:05 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Manage-Orders-Pleading.php on line 104
+[19-May-2024 05:45:05 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Manage-Orders-Pleading.php on line 170
+[19-May-2024 05:45:05 Asia/Qatar] PHP Warning:  Attempt to read property "WORD6" on null in /home/helldswh/public_html/ADMIN/Manage-Orders-Pleading.php on line 170
+[19-May-2024 05:45:11 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Category.php on line 146
+[19-May-2024 05:45:11 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Category.php on line 152
+[19-May-2024 05:45:49 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 126
+[19-May-2024 05:45:49 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:46:01 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:46:04 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 126
+[19-May-2024 05:46:04 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:46:06 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Category.php on line 146
+[19-May-2024 05:46:06 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Category.php on line 152
+[19-May-2024 05:46:09 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 126
+[19-May-2024 05:46:09 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:46:16 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:46:19 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:46:24 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:46:25 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 126
+[19-May-2024 05:46:25 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:46:27 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Category.php on line 146
+[19-May-2024 05:46:27 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Category.php on line 152
+[19-May-2024 05:46:45 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 126
+[19-May-2024 05:46:45 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:48:02 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:48:03 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:48:04 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:48:06 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:50:09 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:50:13 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:50:38 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 126
+[19-May-2024 05:50:38 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:50:46 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Category.php on line 146
+[19-May-2024 05:50:46 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Category.php on line 152
+[19-May-2024 05:50:56 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Manage-Orders-Pleading.php on line 98
+[19-May-2024 05:50:56 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Manage-Orders-Pleading.php on line 104
+[19-May-2024 05:50:56 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Manage-Orders-Pleading.php on line 170
+[19-May-2024 05:50:56 Asia/Qatar] PHP Warning:  Attempt to read property "WORD6" on null in /home/helldswh/public_html/ADMIN/Manage-Orders-Pleading.php on line 170
+[19-May-2024 05:51:03 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:52:03 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 126
+[19-May-2024 05:52:03 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:52:05 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Category.php on line 146
+[19-May-2024 05:52:05 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Category.php on line 152
+[19-May-2024 05:52:22 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 126
+[19-May-2024 05:52:22 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:52:34 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:52:40 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:52:52 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:52:56 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 126
+[19-May-2024 05:52:56 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Edit-Category.php on line 132
+[19-May-2024 05:52:58 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Category.php on line 146
+[19-May-2024 05:52:58 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Category.php on line 152
+[19-May-2024 05:53:43 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Products.php on line 202
+[19-May-2024 05:53:43 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Products.php on line 208
+[19-May-2024 05:53:43 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 05:53:43 Asia/Qatar] PHP Warning:  Attempt to read property "WORD80" on null in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 05:53:43 Asia/Qatar] PHP Warning:  Undefined property: stdClass::$about in /home/helldswh/public_html/ADMIN/Products.php on line 392
+[19-May-2024 05:53:53 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Products.php on line 202
+[19-May-2024 05:53:53 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Products.php on line 208
+[19-May-2024 05:53:53 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 05:53:53 Asia/Qatar] PHP Warning:  Attempt to read property "WORD80" on null in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 05:53:53 Asia/Qatar] PHP Warning:  Undefined property: stdClass::$about in /home/helldswh/public_html/ADMIN/Products.php on line 392
+[19-May-2024 05:54:04 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Products.php on line 208
+[19-May-2024 05:54:04 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 05:54:04 Asia/Qatar] PHP Warning:  Attempt to read property "WORD80" on null in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 05:54:07 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Products.php on line 208
+[19-May-2024 05:54:07 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 05:54:07 Asia/Qatar] PHP Warning:  Attempt to read property "WORD80" on null in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 05:54:34 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Manage-Slider-Main.php on line 122
+[19-May-2024 05:54:34 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Manage-Slider-Main.php on line 128
+[19-May-2024 05:55:52 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 05:55:52 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 06:01:23 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 06:01:23 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Setting-System.php on line 232
+[19-May-2024 06:01:57 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Setting-System.php on line 226
+[19-May-2024 06:02:30 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Adds.php on line 112
+[19-May-2024 06:02:30 Asia/Qatar] PHP Warning:  Attempt to read property "WORD11" on null in /home/helldswh/public_html/ADMIN/Adds.php on line 112
+[19-May-2024 06:02:30 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Adds.php on line 161
+[19-May-2024 06:02:30 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Adds.php on line 167
+[19-May-2024 06:03:01 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Links.php on line 113
+[19-May-2024 06:03:01 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Links.php on line 119
+[19-May-2024 06:03:01 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Links.php on line 143
+[19-May-2024 06:03:01 Asia/Qatar] PHP Warning:  Attempt to read property "WORD6" on null in /home/helldswh/public_html/ADMIN/Links.php on line 143
+[19-May-2024 06:03:48 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Manage-Customers.php on line 108
+[19-May-2024 06:03:48 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Manage-Customers.php on line 114
+[19-May-2024 06:03:59 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Pro-Conditions.php on line 122
+[19-May-2024 06:03:59 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Pro-Conditions.php on line 128
+[19-May-2024 06:04:29 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Manage-Messages.php on line 98
+[19-May-2024 06:04:29 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Manage-Messages.php on line 104
+[19-May-2024 06:05:12 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Products.php on line 202
+[19-May-2024 06:05:12 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Products.php on line 208
+[19-May-2024 06:05:12 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 06:05:12 Asia/Qatar] PHP Warning:  Attempt to read property "WORD80" on null in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 06:05:32 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Shipping-Cost.php on line 134
+[19-May-2024 06:05:32 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Shipping-Cost.php on line 140
+[19-May-2024 06:06:01 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Products.php on line 202
+[19-May-2024 06:06:01 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Products.php on line 208
+[19-May-2024 06:06:01 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 06:06:01 Asia/Qatar] PHP Warning:  Attempt to read property "WORD80" on null in /home/helldswh/public_html/ADMIN/Products.php on line 359
+[19-May-2024 06:06:10 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Manage-Slider-Service.php on line 126
+[19-May-2024 06:06:10 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Manage-Slider-Service.php on line 132
+[19-May-2024 06:07:10 Asia/Qatar] PHP Warning:  Undefined variable $msg in /home/helldswh/public_html/ADMIN/Manage-Slider-Service.php on line 126
+[19-May-2024 06:07:10 Asia/Qatar] PHP Warning:  Undefined variable $erorr in /home/helldswh/public_html/ADMIN/Manage-Slider-Service.php on line 132
+[19-May-2024 06:07:16 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 06:07:16 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 12:48:19 Asia/Qatar] PHP Warning:  Undefined variable $LANG in /home/helldswh/public_html/ADMIN/login.php on line 171
+[19-May-2024 12:48:19 Asia/Qatar] PHP Warning:  Attempt to read property "WORD49" on null in /home/helldswh/public_html/ADMIN/login.php on line 171

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=El+Messiri:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=El+Messiri:wght@700&display=swap');
+@font-face {
+  font-family: 'ElMessiri';
+  src: url(../font/ElMessiri-Bold.ttf);
+}
+
+@font-face{
+font-family: 'Cairo';
+  src: url(../font/Cairo-Light.ttf);
+
+}
+
+body{
+    font-family: 'Cairo';
+}
+
+/*
+h1,h2,h3,h4,h5,h6,ul,li,ol,a{
+    font-family: 'Cairo';
+     float: right;
+}
+.breadcrumb-item{
+     font-family: 'Cairo';
+}
+#table{
+    direction: rtl;
+    text-align: right;
+}
+.card{
+   
+}
+form{
+    direction: rtl; text-align: right;
+    
+}
+.pagetitlee{
+    font-family: 'Cairo';text-align: right;
+  
+}
+h1{
+    font-family: 'Cairo';text-align: right;
+}
+
+ #alert{
+    direction: rtl;
+}
+    
+*/
+   
+    
+      body{
+            font-family: 'Cairo';
+        }
+        
+    h1,h2,h3,h4,h5,h6,ul,li,ol,a{
+    font-family: 'Cairo';
+     
+        }

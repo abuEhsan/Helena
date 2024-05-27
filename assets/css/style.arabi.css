@@ -1,0 +1,34 @@
+
+/*
+@font-face{
+font-family: 'Cairo';
+  src: url(../fonts/font-cairo/Cairo-Light.ttf);
+
+}
+*/
+/*
+@font-face{
+font-family: 'Cairo';
+  src: url(../fonts/font-cairo/Cairo-Light.ttf);
+
+}
+*/
+
+body{
+/*     font-family: 'Cairo';*/
+    font-family: 'Lateef', serif;
+     direction: rtl;
+    font-weight: bold;
+}
+
+h1,h2,h3,h4,h5,h6{
+/*     font-family: 'Cairo';*/
+    font-family: 'Lateef', serif;
+}
+li{
+    font-family: 'Lateef', serif;
+}
+a{
+    font-family: 'Lateef', serif;
+}
+
