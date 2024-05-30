@@ -42,6 +42,11 @@
             <ul id="Product-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
               <li>
                 <a href="Products.php">
+                  <i class="bi bi-circle"></i><span><?php echo "إضافة منتجات";?></span>
+                </a>
+              </li>
+              <li>
+                <a href="Manage-Products.php">
                   <i class="bi bi-circle"></i><span><?php echo "إدارة المنتجات";?></span>
                 </a>
               </li>

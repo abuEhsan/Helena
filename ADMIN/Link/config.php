@@ -9,7 +9,12 @@
 define('DB_HOST','localhost');
 define('DB_USER','root');
 define('DB_PASS','');
-define('DB_NAME','helldswh_helena');  
+define('DB_NAME','helldswh_helena'); 
+
+// define('DB_HOST','localhost');
+// define('DB_USER','helldswh_tariq');
+// define('DB_PASS','aH(MQ.b_{IQf');
+// define('DB_NAME','helldswh_helena');  
 // Defining base url
     define("BASE_URL", "");
 
